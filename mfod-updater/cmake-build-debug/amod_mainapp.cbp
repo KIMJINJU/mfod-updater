@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="amod_mainapp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/shpark/workspace/project/amod-mainapp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/shpark/workspace/project/amod-mainapp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/shpark/workspace/project/amod-mainapp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="amod-mainapp">
+				<Option output="/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/amod-mainapp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shpark/workspace/project/amod-mainapp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shpark/workspace/project/amod-mainapp/inc"/>
+					<Add directory="/opt/imx6-resource/rootfs/amod/usr/include"/>
+					<Add directory="/opt/imx6-resource/rootfs/amod/usr/include/directfb"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 amod-mainapp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="amod-mainapp/fast">
+				<Option output="/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/amod-mainapp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shpark/workspace/project/amod-mainapp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shpark/workspace/project/amod-mainapp/inc"/>
+					<Add directory="/opt/imx6-resource/rootfs/amod/usr/include"/>
+					<Add directory="/opt/imx6-resource/rootfs/amod/usr/include/directfb"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 amod-mainapp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shpark/workspace/project/amod-mainapp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/amod.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/coordtr/coordtr.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/device.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/evque.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/geodesic.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/guimgr.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/kvmf.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/logger.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/magcomp.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/msgproc.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/sysctrl.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/taqdata_manager.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/core/taqmgr.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/ds/list.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/ds/queue.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/ds/stack.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/etc/util.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/geomag/geomag.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_button.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_caption.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_dialog.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_dialog_creator.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_draw.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_grid.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_keyin_handler.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_menu.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_proc.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_qsel.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_slider.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_spinbox.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_str.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_submenu.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_svplot.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/gui_window.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/gui/guiid.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/camif.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/display.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/dmc.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/eis.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/gnss.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/gpio.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/ipu.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/ircam.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/irshtr.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/lrf.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/mcu.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/uart.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/modules/vgss.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_api.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_error.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_get_image_size.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_image_data.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_image_data_ex.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_motion_data.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_motion_data_perspective.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_quadr_int.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_rect_int.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_video_refiner.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/morpho/morpho_video_refiner_internal.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/msg/K00_1.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/msg/K02_22.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/msg/K02_37.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/msg/K02_9.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/msg/dlp_header.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/msg/kvmf_header.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/types.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/inc/verinfo.h">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/device.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/evque.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/geodesic.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/guimgr.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/logger.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/magcomp.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/main.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/msgproc.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/sysctrl.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/taqdata_manager.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/core/taqmgr.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/ds/list.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/ds/queue.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/ds/stack.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/etc/util.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_button.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_caption.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_dialog.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_dialog_creator.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_draw.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_grid.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_keyin_handler.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_menu.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_qsel.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_slider.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_spinbox.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_submenu.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_svplot.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/gui/gui_window.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/camif.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/display.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/dmc.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/eis.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/gnss.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/gpio.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/ipu.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/ircam.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/irshtr.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/lrf.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/mcu.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/uart.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/src/modules/vgss.c">
+			<Option target="amod-mainapp"/>
+		</Unit>
+		<Unit filename="/home/shpark/workspace/project/amod-mainapp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

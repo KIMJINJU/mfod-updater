@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="holder for library settings">
+
+</language>
+<language name="Assembly">
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/lib/gcc/arm-fsl-linux-gnueabi/4.6.2/include</includepath>
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/include</includepath>
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/arm-fsl-linux-gnueabi/multi-libs/default/usr/include</includepath>
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/lib/gcc/arm-fsl-linux-gnueabi/4.6.2/include-fixed</includepath>
+<includepath>/opt/imx6-resource/rootfs/mfod-mmcblk0p2/usr/include</includepath>
+<includepath>/opt/imx6-resource/rootfs/mfod-mmcblk0p2/usr/include/directfb</includepath>
+
+</language>
+<language name="GNU C++">
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/lib/gcc/arm-fsl-linux-gnueabi/4.6.2/include</includepath>
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/arm-fsl-linux-gnueabi/multi-libs/default/usr/include</includepath>
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/lib/gcc/arm-fsl-linux-gnueabi/4.6.2/include-fixed</includepath>
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/include</includepath>
+<includepath>/opt/imx6-resource/rootfs/mfod-mmcblk0p2/usr/include</includepath>
+<includepath>/opt/imx6-resource/rootfs/mfod-mmcblk0p2/include/directfb</includepath>
+
+</language>
+<language name="GNU C">
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/lib/gcc/arm-fsl-linux-gnueabi/4.6.2/include</includepath>
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/include</includepath>
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/arm-fsl-linux-gnueabi/multi-libs/default/usr/include</includepath>
+<includepath>/opt/gcc-4.6.2-glibc-2.13-linaro-multilib-2011.12/fsl-linaro-toolchain/lib/gcc/arm-fsl-linux-gnueabi/4.6.2/include-fixed</includepath>
+<includepath>/opt/imx6-resource/rootfs/mfod-mmcblk0p2/usr/include</includepath>
+<includepath>/opt/imx6-resource/rootfs/mfod-mmcblk0p2/usr/include/directfb</includepath>
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="holder for library settings">
+
+</language>
+<language name="Assembly">
+
+</language>
+<language name="GNU C++">
+
+</language>
+<language name="GNU C">
+
+</language>
+</section>
+</cdtprojectproperties>
